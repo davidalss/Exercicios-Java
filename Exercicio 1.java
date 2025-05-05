@@ -1,4 +1,4 @@
-// Nome do Arquivo: Exercicio1.java
+// Nome do Arquivo: Exercicio 1.java
 // Autor: David
 // Descrição: Exercício em Java para prática
 // Data de Criação: 04/05/2025
